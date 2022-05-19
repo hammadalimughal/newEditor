@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+body {
+    overflow-x: hidden;
+}
+a {
+    text-decoration: none;
+}
+figure {
+    margin: 0;
+    padding: 0;
+}
+.btn:focus {
+    outline: none;
+}
+ul,
+ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+}
+a,button{
+    display: inline-block;
+}
+button:focus {
+    outline: none;
+    box-shadow: none;
+}
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+.form-control:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+/************************** Header css **************************/
+/************************** Header css end **************************/
+
+/************************** media-query **************************/
+
+@media only screen and (min-width: 1921px) and (max-width: 7368px) {}
+
+@media only screen and (min-width: 1600px) and (max-width: 1920px) {}
+
+@media only screen and (min-width: 1445px) and (max-width: 1599px) {}
+
+@media only screen and (min-width: 1366px) and (max-width: 1444px) {}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {}
+
+@media only screen and (min-width: 520px) and (max-width: 767px) {}
+
+@media only screen and (min-width: 300px) and (max-width: 519px) {}
