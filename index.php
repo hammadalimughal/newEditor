@@ -210,26 +210,26 @@ $page = 'home';
                                             </li>
                                         </ul>
                                         <ul class="frame-type">
-                                            <li><a data-frameId="premium-1" href="javascript:;"><img class="img-fluid"
+                                            <li><a data-frameId="classic-1" href="javascript:;"><img class="img-fluid"
                                                         src="images/classic/1/1.jpg" alt=""></a></li>
-                                            <li><a data-frameId="premium-2" href="javascript:;"><img class="img-fluid"
+                                            <li><a data-frameId="classic-2" href="javascript:;"><img class="img-fluid"
                                                         src="images/classic/1/1.jpg" alt=""></a></li>
-                                            <li><a data-frameId="premium-3" href="javascript:;"><img class="img-fluid"
+                                            <li><a data-frameId="classic-3" href="javascript:;"><img class="img-fluid"
                                                         src="images/classic/1/1.jpg" alt=""></a></li>
                                             <li class="frame-info">
-                                                <span class="cate-type">PREMIUM FRAMEⓘ</span>
+                                                <span class="cate-type">classic FRAMEⓘ</span>
                                                 <span class="price">$200</span>
                                             </li>
                                         </ul>
                                         <ul class="frame-type">
-                                            <li><a data-frameId="signature-1" href="javascript:;"><img class="img-fluid"
+                                            <li><a data-frameId="classic-1" href="javascript:;"><img class="img-fluid"
                                                         src="images/classic/1/1.jpg" alt=""></a></li>
-                                            <li><a data-frameId="signature-2" href="javascript:;"><img class="img-fluid"
+                                            <li><a data-frameId="classic-2" href="javascript:;"><img class="img-fluid"
                                                         src="images/classic/1/1.jpg" alt=""></a></li>
-                                            <li><a data-frameId="signature-3" href="javascript:;"><img class="img-fluid"
+                                            <li><a data-frameId="classic-3" href="javascript:;"><img class="img-fluid"
                                                         src="images/classic/1/1.jpg" alt=""></a></li>
                                             <li class="frame-info">
-                                                <span class="cate-type">SIGNATURE FRAMEⓘ</span>
+                                                <span class="cate-type">classic FRAMEⓘ</span>
                                                 <span class="price">$270</span>
                                             </li>
                                         </ul>

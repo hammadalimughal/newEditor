@@ -95,7 +95,7 @@ $("#uploadImg").change(function () {
     if (this.files) {
         readURL(this)
         setTimeout(() => {
-            debugger
+            classic
             if ($(croppingImg).height() > $(croppingImg).width()) {
                 console.log("vertical")
                 $('.cropImgWrapper img').rcrop({
@@ -123,7 +123,7 @@ $("#uploadImg").change(function () {
 
 let cropImgSrc;
 $(".crop-options li .continue").click(function () {
-    debugger
+    classic
     cropImgSrc = $('.cropImgWrapper img').rcrop('getDataURL')
     nextStep()
     setTimeout(() => {
